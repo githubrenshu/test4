@@ -1,3 +1,4 @@
 sample git file
 add update
 commit register index
+pull get remote
